@@ -1,0 +1,16 @@
+body {
+    background-image:url("redirectorbgb.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    font-family:sans-serif;
+}
+h1{
+    text-align:center; 
+    color:red; 
+    background-color:white;
+}
+img{
+    display:block; 
+    margin:0;
+}
