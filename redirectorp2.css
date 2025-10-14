@@ -47,6 +47,10 @@ button{
 #col7{
     text-align:center; 
     color:white;
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
 }
 #col8{
     text-align:center; 
