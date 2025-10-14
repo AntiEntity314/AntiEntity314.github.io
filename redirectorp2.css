@@ -10,8 +10,8 @@ body {
     background-size:cover;
 }
 button{
-    height:300px;
-    width:150px;
+    height:40px;
+    width:100px;
     color:black;
     float: right;
 }
@@ -22,7 +22,8 @@ button{
 #col2{
     color:white;
     float: right;
-
+    font-size: 150%;
+    text-align: center;
 }
 #col3{
     text-align:left;
@@ -39,8 +40,9 @@ button{
     color:black
 }
 #col6{
-    height:300px;
-    width:150px;
+    height:40px;
+    width:100px;
+    float: right;
 }
 #col7{
     text-align:center; 
