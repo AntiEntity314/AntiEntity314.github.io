@@ -53,6 +53,12 @@ img{
     color:white;
 }
 #col12{
-    height:30px;
-    width:15px;
+    height:300px;
+    width:150px;
+    float: right;
+}
+#button{
+    height:300px;
+    width:150px;
+    float: right;
 }
