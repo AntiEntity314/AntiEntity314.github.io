@@ -9,6 +9,11 @@ body {
     background-size:cover;
     font-family:sans-serif;
 }
+button{
+    float:right;
+    height:40px;
+    width:100px;
+}
 h1{
     text-align:center; 
     color:red; 
@@ -53,12 +58,14 @@ img{
     color:white;
 }
 #col12{
-    height:300px;
-    width:150px;
+    height: 40px;
+    width:100px;
     float: right;
 }
 #button{
-    height:300px;
-    width:150px;
+    height:40px;
+    width:100px;
     float: right;
+    font-size: 150%;
+    text-align:center;
 }
