@@ -1,3 +1,7 @@
+title{
+    text-align:center;
+    font-family:'Times New Roman';
+}
 body {
     background-image:url("redirectorbgb.jpg"); 
     background-repeat: no-repeat;
@@ -13,4 +17,42 @@ h1{
 img{
     display:block; 
     margin:0;
+}
+#col1{
+    background-color:white; 
+    font-size:300%; 
+    color:orange;
+    text-align:center;
+}
+#col2{
+    text-align:center; 
+    font-size:250%; 
+    color:white;
+}
+#col3{
+    text-align:center; 
+    font-size:250%; 
+    color:white;
+}
+#col4,#col5,#col6,#col7,#col8{
+    border:2px solid red; 
+    background-color:white; 
+    font-size:300%; 
+    color:rgb(0,200,100);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#col9{
+    text-align:center;
+}
+#col10{
+    font-size:100%; 
+    color:white;
+}
+#col11{
+    text-align:center; 
+    color:white;
+}
+#col12{
+    height:30px;
+    width:15px;
 }
