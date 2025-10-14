@@ -1,0 +1,51 @@
+title{
+    text-align:center; 
+    background-color:yellow; 
+    color:blue;
+}
+body {
+    background-image:url("redirectorbgb.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+button{
+    height:30px;
+    width:15px;
+    color:black;
+}
+#col1{
+    font-size:200%; 
+    color:white;
+}
+#col2{
+    color:white;
+}
+#col3{
+    text-align:left;
+    font-size:200%;
+    color:black;
+}
+#col4{
+    font-size:200%; 
+    color:white;
+}
+#col5{
+    text-align:left; 
+    font-size:200%; 
+    color:black
+}
+#col6{
+    height:30px;
+    width:15px;
+}
+#col7{
+    text-align:center; 
+    color:white;
+}
+#col8{
+    text-align:center; 
+    background-color:white; 
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
