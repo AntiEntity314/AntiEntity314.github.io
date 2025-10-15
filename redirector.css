@@ -23,6 +23,9 @@ img{
     display:block; 
     margin:0;
 }
+#link{
+    text-align: center;
+}
 #col1{
     background-color:white; 
     font-size:300%; 
